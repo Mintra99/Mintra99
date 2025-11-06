@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <h3> This is me and the gang btw</h3>
+  <h3> This could be us if u hire me 🔥🔥🔥</h3>
   <img height="1000" src="https://github.com/Mintra99/Mintra99/blob/main/disc-kagurabachi-chapter-60-v0-qj9i319x3n5e1.webp"  />
 </div>
 
