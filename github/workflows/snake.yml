@@ -30,7 +30,7 @@ name: Checkout
 name: Generate Snake
     uses: Platane/snk@v3
     with:
-      github_user_name: TrakeLean
+      github_user_name: Mintra99
       outputs: |
         dist/snake.svg
         dist/snake-dark.svg?palette=github-dark
