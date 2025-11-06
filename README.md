@@ -45,6 +45,4 @@
 
 <br clear="both">
 
-<img height="500" src="https://github.com/Mintra99/Mintra99/blob/main/kob.jpg"  />
-
 ###
