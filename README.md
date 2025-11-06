@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mintra99/Mintra99/output/snake.svg" alt="Snake animation" />
+<img height="1000" src="https://github.com/Mintra99/Mintra99/blob/main/kob.jpg"  />
 
 ###
