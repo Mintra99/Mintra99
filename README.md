@@ -12,7 +12,9 @@
 <div align="center">
   <h3> This could be us if u hire me 🔥🔥🔥</h3>
   <img height="1000" src="https://github.com/Mintra99/Mintra99/blob/main/disc-kagurabachi-chapter-60-v0-qj9i319x3n5e1.webp"  />
+  <h5>Im in the middle btw</h5>
 </div>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
