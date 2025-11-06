@@ -9,9 +9,10 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/Mintra99/Mintra99/blob/main/disc-kagurabachi-chapter-60-v0-qj9i319x3n5e1.webp"  />
-
-###
+<div align="center">
+  <h3> This is me and the gang btw</h3>
+  <img height="1000" src="https://github.com/Mintra99/Mintra99/blob/main/disc-kagurabachi-chapter-60-v0-qj9i319x3n5e1.webp"  />
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
