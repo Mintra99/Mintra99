@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src=""  />
+<img align="right" height="150" src="https://github.com/Mintra99/Mintra99/blob/main/disc-kagurabachi-chapter-60-v0-qj9i319x3n5e1.webp"  />
 
 ###
 
