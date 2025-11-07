@@ -15,22 +15,20 @@
   <h5>Im in the middle btw</h5>
 </div>
 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-</div>
-
 ###
+
+<h3>Skills:</h3>
+
+![Python](https://img.shields.io/badge/Python-Advanced-green)
+![Matillion](https://img.shields.io/badge/Matillion-Advanced-green)
+![QlikSense](https://img.shields.io/badge/QlikSense-Intermediate-yellow)
+![PowerBI](https://img.shields.io/badge/PowerBI-Intermediate-yellow)
+![AI/ML](https://img.shields.io/badge/AI%2FML-Intermediate-yellow)
+![Fabric](https://img.shields.io/badge/Fabric-Intermediate-yellow)
+![Snowflake](https://img.shields.io/badge/Snowflake-Learning-blue)
+![dbt](https://img.shields.io/badge/dbt-Learning-blue)
+
+<h3>Contacts:</h3>
 
 <div align="left">
   <a href="mailto:mctran312.com" target="_blank">
@@ -44,14 +42,4 @@
 ###
 
 <br clear="both">
-<h3>Skills:</h3>
-
-![Python](https://img.shields.io/badge/Python-Advanced-green)
-![Matillion](https://img.shields.io/badge/Matillion-Advanced-green)
-![QlikSense](https://img.shields.io/badge/QlikSense-Intermediate-yellow)
-![PowerBI](https://img.shields.io/badge/PowerBI-Intermediate-yellow)
-![AI/ML](https://img.shields.io/badge/AI%2FML-Intermediate-yellow)
-![Fabric](https://img.shields.io/badge/Fabric-Intermediate-yellow)
-![Snowflake](https://img.shields.io/badge/Snowflake-Learning-blue)
-![dbt](https://img.shields.io/badge/dbt-Learning-blue)
 
